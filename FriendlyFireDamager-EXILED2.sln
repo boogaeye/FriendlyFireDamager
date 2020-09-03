@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendlyFireDamager", "FriendlyFireDamager\FriendlyFireDamager.csproj", "{DF09CF69-F77A-4308-9CAA-02D1BA7B27B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF09CF69-F77A-4308-9CAA-02D1BA7B27B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF09CF69-F77A-4308-9CAA-02D1BA7B27B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF09CF69-F77A-4308-9CAA-02D1BA7B27B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF09CF69-F77A-4308-9CAA-02D1BA7B27B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963E3B57-1F09-4EB8-8AA3-D07D413B8976}
+	EndGlobalSection
+EndGlobal
